@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# ChromaDB generated data
+chroma_db/
+
+# Environment and secret files
+.env
+
+# VS Code settings
+.vscode/
